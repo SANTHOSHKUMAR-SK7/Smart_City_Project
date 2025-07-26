@@ -8,14 +8,7 @@ Technologies Used :
    No external databases or libraries used.
 
 Features :
-  Display city-level information (name, region, highlights)
-  View categorized listings of:
-  
-Hotels with name, rating, and location
-    
- Restaurants with type and location
-    
-    Transport options (auto, taxi, bus, etc.)
-    Modular class structure for scalability
-    Console-based, menu-driven interaction
-    Easily extendable to support additional features like tourist places and shopping malls
+  Display city-level information (name, region, highlights),View categorized listings of:Hotels with name, rating, and location,Restaurants with type and location,Transport options (auto, taxi, bus, etc.)
+    Modular class structure for scalability,
+    Console-based, menu-driven interaction,
+    Easily extendable to support additional features like tourist places and shopping malls.
