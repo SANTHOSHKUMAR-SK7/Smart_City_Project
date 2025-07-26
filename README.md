@@ -8,11 +8,8 @@ Technologies Used :
    No external databases or libraries used
 
 Features :
-
   Display city-level information (name, region, highlights)
-
   View categorized listings of:
-
     Hotels with name, rating, and location
     Restaurants with type and location
     Transport options (auto, taxi, bus, etc.)
