@@ -9,6 +9,7 @@ import Transport.Transport;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class DataStore {
     public static List<City> cities = new ArrayList<>();
     public static List<Hotel> hotels = new ArrayList<>();
