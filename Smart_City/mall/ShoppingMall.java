@@ -8,7 +8,6 @@ public class ShoppingMall {
         this.name = name;
         this.cityName = cityName;
     }
-
     public String getCityName() {
         return cityName;
     }
@@ -18,3 +17,4 @@ public class ShoppingMall {
         System.out.println("------------------------");
     }
 }
+
