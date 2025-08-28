@@ -12,10 +12,10 @@ public class City {
     public String getName() {
         return name;
     }
-
     public void displayCityInfo() {
         System.out.println("City: " + name);
         System.out.println("Description: " + description);
         System.out.println("------------------------");
     }
 }
+
