@@ -1,5 +1,6 @@
 package TouristPlace;
 
+
 public class TouristPlace {
     private String name;
     private String description;
@@ -13,6 +14,7 @@ public class TouristPlace {
 
     public String getCityName() {
         return cityName;
+        
     }
 
     public void displayTouristInfo() {
@@ -21,3 +23,4 @@ public class TouristPlace {
         System.out.println("------------------------");
     }
 }
+
