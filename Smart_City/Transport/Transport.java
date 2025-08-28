@@ -10,14 +10,17 @@ public class Transport {
         this.description = description;
         this.cityName = cityName;
     }
+    
 
     public String getCityName() {
         return cityName;
     }
 
     public void displayTransportInfo() {
+        
         System.out.println("Transport: " + type);
         System.out.println("Details: " + description);
         System.out.println("------------------------");
     }
 }
+
