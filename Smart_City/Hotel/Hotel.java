@@ -10,7 +10,6 @@ public class Hotel {
         this.address = address;
         this.cityName = cityName;
     }
-
     public String getCityName() {
         return cityName;
     }
@@ -21,3 +20,4 @@ public class Hotel {
         System.out.println("------------------------");
     }
 }
+
