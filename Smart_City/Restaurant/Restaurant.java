@@ -9,6 +9,7 @@ public class Restaurant {
         this.name = name;
         this.cuisine = cuisine;
         this.cityName = cityName;
+        
     }
 
     public String getCityName() {
@@ -21,3 +22,4 @@ public class Restaurant {
         System.out.println("------------------------");
     }
 }
+
